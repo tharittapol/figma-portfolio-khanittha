@@ -1,0 +1,9 @@
+.claude/settings.json
+.env
+node_modules/
+dist/
+dist-ssr/
+*.log
+.DS_Store
+Thumbs.db
+*.tsbuildinfo
