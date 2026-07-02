@@ -6,7 +6,7 @@ export const profile = {
   phone: '+66 91-372-9325',
   location: 'Bangkok, Thailand',
   linkedinLabel: 'Khanittha Hemsamak',
-  linkedinUrl: 'https://www.linkedin.com/',
+  linkedinUrl: 'https://www.linkedin.com/in/khanittha-hemsamak',
   resumeUrl: '/assets/resume.pdf',
   avatar: '/assets/home/avatar.png',
 }
